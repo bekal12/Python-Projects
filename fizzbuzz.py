@@ -1,3 +1,5 @@
+
+#FizzBuzz
 def fizzbuzz(num):
     for x in range(1, num):
         if x % 3 == 0 and x % 5 == 0: print("FizzBuzz")
